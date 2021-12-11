@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O8+bNuiAm0ya3kfq8y+58TrPQ++afRB0Q2FmU1UiUsHsLD7Y8SE8CFMzMCnhJswzkCT+agt+i9z8dYKQss030w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\derde\\Desktop\\BluePassFE\\MyApp\\MyApp.iOS\\MyApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\derde\\.nuget\\packages\\xamarin.forms\\4.3.0.908675\\xamarin.forms.4.3.0.908675.nupkg.sha512"
+  ],
+  "logs": []
+}
